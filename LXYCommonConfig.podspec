@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "LXYCommonConfig"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "LXYCommonConfig summarizes some common config files."
   s.description  = <<-DESC
     LXYCommonConfig is designed to facilitate some common config, like layer corner.
