@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "LXYCommonConfig"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "LXYCommonConfig summarizes some common config files."
   s.description  = <<-DESC
     LXYCommonConfig is designed to facilitate some common config, like layer corner.
@@ -22,6 +22,10 @@ Pod::Spec.new do |s|
 
   s.subspec 'LXYLayerCorner' do |layercorner|
     layercorner.source_files = 'LXYLayerCorner/LXYLayerCorner/*.{h,m}'
+  end
+
+  s.subspec 'LXYIDCardInfo' do |idcardinfo|
+    idcardinfo.source_files = 'LXYIDCardInfo/LXYIDCardInfo/*.{h,m}'
   end
 
 end
