@@ -7,21 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1179599E2F0A7A3DC78990F289B90224 /* NSString+LXYIDCardInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = E1CA614504C37786035C67A12382B42D /* NSString+LXYIDCardInfo.m */; };
+		11B777F68C88353AE44D5C8141817704 /* UIImageView+LXYImageCorner.h in Headers */ = {isa = PBXBuildFile; fileRef = B2B454608E6397D02A8AE5D5E295F6AA /* UIImageView+LXYImageCorner.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		1202C336EADC790E88D468EC15BAFFFA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		20E1EF2800A8608382DC9A9DB7203A21 /* UIImage+LXYImageCorner.h in Headers */ = {isa = PBXBuildFile; fileRef = 41EC6169E487B0BFADDE299E3401946F /* UIImage+LXYImageCorner.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		3218360946778E6852C53A00CA970134 /* UIImageView+LXYImageCorner.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C68507681EC5BB2F34FA2F0A72610EE /* UIImageView+LXYImageCorner.m */; };
-		62BED8E73681708D410108B155CA6E2E /* UIImageView+LXYImageCorner.h in Headers */ = {isa = PBXBuildFile; fileRef = 3D7198119D67B4B6A2A669E39131EAC1 /* UIImageView+LXYImageCorner.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		71AC93B61D7F2AEB6E890650B7362AF4 /* LXYCommonConfig-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B3A4B52A92A6F9D5BF0EE062980AEB4 /* LXYCommonConfig-dummy.m */; };
+		16E3A9DE3FF21ACDC796400D67CB5A19 /* UIImage+LXYCreateImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B7F3D15764F13E412D4AC642A0D3201 /* UIImage+LXYCreateImage.m */; };
+		1F12E64BD7F178FC7284946A85D4FCE1 /* LXYCommonConfig-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B52F8C8E0708D17194DBC9FDAAB26F1F /* LXYCommonConfig-dummy.m */; };
+		5353F6C1BBBA8C88FD90E83AD28BC54E /* UIImage+LXYImageCorner.m in Sources */ = {isa = PBXBuildFile; fileRef = 18AB3649F5511935FBD36EF06D0D8B8D /* UIImage+LXYImageCorner.m */; };
 		7A7DF101023FEE5FC71D635B2A5A3281 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		865F22FC1CE556B11154A71AE8284BE0 /* UIImage+LXYImageCorner.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B9511FD897E19887C0DC85B51521933 /* UIImage+LXYImageCorner.m */; };
-		8815589A641AB7D3135F4C49D6E4A717 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		8D4C16FDE265DD29BD015A43331D31EB /* Pods-DemoUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E895D729409A75BD7BDE6B1B3C2C2330 /* Pods-DemoUITests-dummy.m */; };
-		91C59F69FF9B70EC664AB73DD38A792B /* LXYLayerCornerHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = C36D9A394ED2F6AAF43A95960D5A2C3E /* LXYLayerCornerHeader.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		9064BE0327CDD33C6A6A4CF1436AA966 /* UIImage+LXYImageCorner.h in Headers */ = {isa = PBXBuildFile; fileRef = 57D90F0119BBEF0739AFBD48C1576B00 /* UIImage+LXYImageCorner.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		981AA809F66616EC5DB918363CC1D500 /* NSString+LXYIDCardInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 7D8ABBDC3452F6FA017D725C449A1D95 /* NSString+LXYIDCardInfo.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		9CBC62B72440EDACAE0C79DA7CF4370E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		A9F1EAD980143D206B91EE177D0FB0ED /* Pods-DemoTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BF5823A1463497B7AE2B0A89DC1163E /* Pods-DemoTests-dummy.m */; };
-		E4E1CA4073CC784A6D3ACFDE2EA484DA /* NSString+LXYIDCardInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = A107E5E6C61043CFDC088E5983FC3D17 /* NSString+LXYIDCardInfo.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		E759C05FC113A295C8AC19D4F35DAE36 /* NSString+LXYIDCardInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = B4F97201BF0C2A94295355B2D187DBA0 /* NSString+LXYIDCardInfo.m */; };
+		B6382C29E8DED077C4C242F2E998D04F /* LXYLayerCornerHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = E304E9C8FD77276679B557F3FB112D5E /* LXYLayerCornerHeader.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		C37159EE8D0CC913FDCAB7857620013B /* UIImageView+LXYImageCorner.m in Sources */ = {isa = PBXBuildFile; fileRef = 36B5FA4470FAE8BD35CA45D45377B68B /* UIImageView+LXYImageCorner.m */; };
+		C5BF3B19BDB6570980139C13C747A481 /* UIImage+LXYCreateImage.h in Headers */ = {isa = PBXBuildFile; fileRef = A74300804594E29D70AF1C331F9E2781 /* UIImage+LXYCreateImage.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		E965FC7A001F391BAD1931B906D33D63 /* Pods-Demo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C00AFED8FDEF3AA61D1A5446162FAD88 /* Pods-Demo-dummy.m */; };
+		F95567CBCF1A284C9EAD82694D097607 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,7 +45,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 188D5F0A473ECEB4A9DC25B55A1074D5;
+			remoteGlobalIDString = 1A053C707F1711E6AE18CF598387C0D2;
 			remoteInfo = LXYCommonConfig;
 		};
 /* End PBXContainerItemProxy section */
@@ -51,33 +53,35 @@
 /* Begin PBXFileReference section */
 		006C3381FAA3FF0ACA407F5C140539AE /* Pods-DemoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DemoTests.debug.xcconfig"; sourceTree = "<group>"; };
 		05AFD5232A3BE9E8A4352551D9E43895 /* Pods-DemoTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DemoTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		0ACBD00AC5830C6912AB3EEFCA0D4119 /* LXYCommonConfig.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LXYCommonConfig.xcconfig; sourceTree = "<group>"; };
 		0BF5823A1463497B7AE2B0A89DC1163E /* Pods-DemoTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DemoTests-dummy.m"; sourceTree = "<group>"; };
 		0E4B2AC34E64C41A4D871D7997A027B1 /* Pods-Demo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Demo-acknowledgements.markdown"; sourceTree = "<group>"; };
 		0FB3539FCF354C0C7EE40955BFE3F542 /* Pods-DemoUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DemoUITests-resources.sh"; sourceTree = "<group>"; };
-		1B3A4B52A92A6F9D5BF0EE062980AEB4 /* LXYCommonConfig-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LXYCommonConfig-dummy.m"; sourceTree = "<group>"; };
+		18AB3649F5511935FBD36EF06D0D8B8D /* UIImage+LXYImageCorner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+LXYImageCorner.m"; path = "LXYLayerCorner/LXYLayerCorner/UIImage+LXYImageCorner.m"; sourceTree = "<group>"; };
 		225F0E5DB3C1413C858AABAB1812F7E3 /* libLXYCommonConfig.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libLXYCommonConfig.a; path = libLXYCommonConfig.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		254B53CA2E7155820F6A33EB48D6E422 /* Pods-Demo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Demo-acknowledgements.plist"; sourceTree = "<group>"; };
+		36B5FA4470FAE8BD35CA45D45377B68B /* UIImageView+LXYImageCorner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+LXYImageCorner.m"; path = "LXYLayerCorner/LXYLayerCorner/UIImageView+LXYImageCorner.m"; sourceTree = "<group>"; };
 		38F1C891E4093D3C957559BC34624AFB /* libPods-Demo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-Demo.a"; path = "libPods-Demo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3D7198119D67B4B6A2A669E39131EAC1 /* UIImageView+LXYImageCorner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+LXYImageCorner.h"; path = "LXYLayerCorner/LXYLayerCorner/UIImageView+LXYImageCorner.h"; sourceTree = "<group>"; };
-		40A3034D79F205CCC82D4ABB5350CBB7 /* LXYCommonConfig.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LXYCommonConfig.xcconfig; sourceTree = "<group>"; };
-		41EC6169E487B0BFADDE299E3401946F /* UIImage+LXYImageCorner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+LXYImageCorner.h"; path = "LXYLayerCorner/LXYLayerCorner/UIImage+LXYImageCorner.h"; sourceTree = "<group>"; };
+		3B7F3D15764F13E412D4AC642A0D3201 /* UIImage+LXYCreateImage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+LXYCreateImage.m"; path = "LXYImageCategory/LXYImageCategory/UIImage+LXYCreateImage.m"; sourceTree = "<group>"; };
+		4DFD17F4B131800FCEDD41AC232A184A /* LXYCommonConfig-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LXYCommonConfig-prefix.pch"; sourceTree = "<group>"; };
+		57D90F0119BBEF0739AFBD48C1576B00 /* UIImage+LXYImageCorner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+LXYImageCorner.h"; path = "LXYLayerCorner/LXYLayerCorner/UIImage+LXYImageCorner.h"; sourceTree = "<group>"; };
 		5C23EA7B88D999947E3A6B6A6A2870F7 /* Pods-DemoUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DemoUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7B6B0B2EAD02D90D2A334336225FFE19 /* Pods-DemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DemoTests.release.xcconfig"; sourceTree = "<group>"; };
-		7B9511FD897E19887C0DC85B51521933 /* UIImage+LXYImageCorner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+LXYImageCorner.m"; path = "LXYLayerCorner/LXYLayerCorner/UIImage+LXYImageCorner.m"; sourceTree = "<group>"; };
+		7D8ABBDC3452F6FA017D725C449A1D95 /* NSString+LXYIDCardInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+LXYIDCardInfo.h"; path = "LXYIDCardInfo/LXYIDCardInfo/NSString+LXYIDCardInfo.h"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		98A1DDB1CAC853B8C8288B663E989269 /* libPods-DemoUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-DemoUITests.a"; path = "libPods-DemoUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9C68507681EC5BB2F34FA2F0A72610EE /* UIImageView+LXYImageCorner.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+LXYImageCorner.m"; path = "LXYLayerCorner/LXYLayerCorner/UIImageView+LXYImageCorner.m"; sourceTree = "<group>"; };
 		9FF51DFF47CFE75ACA1F0232537BE6A5 /* Pods-Demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Demo.release.xcconfig"; sourceTree = "<group>"; };
-		A107E5E6C61043CFDC088E5983FC3D17 /* NSString+LXYIDCardInfo.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSString+LXYIDCardInfo.h"; path = "LXYIDCardInfo/LXYIDCardInfo/NSString+LXYIDCardInfo.h"; sourceTree = "<group>"; };
+		A74300804594E29D70AF1C331F9E2781 /* UIImage+LXYCreateImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+LXYCreateImage.h"; path = "LXYImageCategory/LXYImageCategory/UIImage+LXYCreateImage.h"; sourceTree = "<group>"; };
 		ABD74DB31976CB48F9501EAADCCE2B90 /* Pods-DemoTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DemoTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		ADF344DE479DD53933474BA4A1C6CE2F /* LXYCommonConfig-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LXYCommonConfig-prefix.pch"; sourceTree = "<group>"; };
-		B4F97201BF0C2A94295355B2D187DBA0 /* NSString+LXYIDCardInfo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+LXYIDCardInfo.m"; path = "LXYIDCardInfo/LXYIDCardInfo/NSString+LXYIDCardInfo.m"; sourceTree = "<group>"; };
+		B2B454608E6397D02A8AE5D5E295F6AA /* UIImageView+LXYImageCorner.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+LXYImageCorner.h"; path = "LXYLayerCorner/LXYLayerCorner/UIImageView+LXYImageCorner.h"; sourceTree = "<group>"; };
+		B52F8C8E0708D17194DBC9FDAAB26F1F /* LXYCommonConfig-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LXYCommonConfig-dummy.m"; sourceTree = "<group>"; };
 		C00AFED8FDEF3AA61D1A5446162FAD88 /* Pods-Demo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Demo-dummy.m"; sourceTree = "<group>"; };
-		C36D9A394ED2F6AAF43A95960D5A2C3E /* LXYLayerCornerHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LXYLayerCornerHeader.h; path = LXYLayerCorner/LXYLayerCorner/LXYLayerCornerHeader.h; sourceTree = "<group>"; };
 		CB698A12A94076C8D9664D3624CFBBDF /* Pods-DemoTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DemoTests-resources.sh"; sourceTree = "<group>"; };
 		CC719A920559D5A0131E92F8B075E06C /* Pods-Demo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Demo-resources.sh"; sourceTree = "<group>"; };
 		DE6E412EEA0B04EAA6B19019FC8629CB /* Pods-DemoUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DemoUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		E1CA614504C37786035C67A12382B42D /* NSString+LXYIDCardInfo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSString+LXYIDCardInfo.m"; path = "LXYIDCardInfo/LXYIDCardInfo/NSString+LXYIDCardInfo.m"; sourceTree = "<group>"; };
+		E304E9C8FD77276679B557F3FB112D5E /* LXYLayerCornerHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LXYLayerCornerHeader.h; path = LXYLayerCorner/LXYLayerCorner/LXYLayerCornerHeader.h; sourceTree = "<group>"; };
 		E43157149A33C47CC551082C9D6F4FD5 /* Pods-DemoUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DemoUITests-acknowledgements.plist"; sourceTree = "<group>"; };
 		E895D729409A75BD7BDE6B1B3C2C2330 /* Pods-DemoUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DemoUITests-dummy.m"; sourceTree = "<group>"; };
 		EB7607C37684F0BF3F2738C527A54103 /* libPods-DemoTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-DemoTests.a"; path = "libPods-DemoTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -97,14 +101,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		19B3A6B0A6F7829F318FE7D0F3989478 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8815589A641AB7D3135F4C49D6E4A717 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		42DE95EC9A9341C791813163FC4E7D69 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -121,31 +117,17 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		F86A354549FF900F84A6F1A8C79AB95A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F95567CBCF1A284C9EAD82694D097607 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		02F382205C9764676DED7E1916540855 /* LXYCommonConfig */ = {
-			isa = PBXGroup;
-			children = (
-				A9DB8D8A149D0191D024064B8C218365 /* LXYIDCardInfo */,
-				98406D4645FB915A79E329B6847ADD7F /* LXYLayerCorner */,
-				218487B0205686281880964B85AF65F2 /* Support Files */,
-			);
-			name = LXYCommonConfig;
-			path = LXYCommonConfig;
-			sourceTree = "<group>";
-		};
-		218487B0205686281880964B85AF65F2 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				40A3034D79F205CCC82D4ABB5350CBB7 /* LXYCommonConfig.xcconfig */,
-				1B3A4B52A92A6F9D5BF0EE062980AEB4 /* LXYCommonConfig-dummy.m */,
-				ADF344DE479DD53933474BA4A1C6CE2F /* LXYCommonConfig-prefix.pch */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/LXYCommonConfig";
-			sourceTree = "<group>";
-		};
 		2822E17D4999985C8A4F4D25CAF97270 /* Pods-DemoTests */ = {
 			isa = PBXGroup;
 			children = (
@@ -161,35 +143,76 @@
 			path = "Target Support Files/Pods-DemoTests";
 			sourceTree = "<group>";
 		};
+		3EB6A9225350856E42D0860553221E87 /* LXYIDCardInfo */ = {
+			isa = PBXGroup;
+			children = (
+				7D8ABBDC3452F6FA017D725C449A1D95 /* NSString+LXYIDCardInfo.h */,
+				E1CA614504C37786035C67A12382B42D /* NSString+LXYIDCardInfo.m */,
+			);
+			name = LXYIDCardInfo;
+			sourceTree = "<group>";
+		};
+		4EEBD7878DCCE162E60ADA8686793C54 /* LXYLayerCorner */ = {
+			isa = PBXGroup;
+			children = (
+				E304E9C8FD77276679B557F3FB112D5E /* LXYLayerCornerHeader.h */,
+				57D90F0119BBEF0739AFBD48C1576B00 /* UIImage+LXYImageCorner.h */,
+				18AB3649F5511935FBD36EF06D0D8B8D /* UIImage+LXYImageCorner.m */,
+				B2B454608E6397D02A8AE5D5E295F6AA /* UIImageView+LXYImageCorner.h */,
+				36B5FA4470FAE8BD35CA45D45377B68B /* UIImageView+LXYImageCorner.m */,
+			);
+			name = LXYLayerCorner;
+			sourceTree = "<group>";
+		};
+		513EF08DDB6258901C44DF24A5DAC677 /* LXYImageCategory */ = {
+			isa = PBXGroup;
+			children = (
+				A74300804594E29D70AF1C331F9E2781 /* UIImage+LXYCreateImage.h */,
+				3B7F3D15764F13E412D4AC642A0D3201 /* UIImage+LXYCreateImage.m */,
+			);
+			name = LXYImageCategory;
+			sourceTree = "<group>";
+		};
+		5BE5F204B8B38ACB7D9BCC66F6381B38 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				0ACBD00AC5830C6912AB3EEFCA0D4119 /* LXYCommonConfig.xcconfig */,
+				B52F8C8E0708D17194DBC9FDAAB26F1F /* LXYCommonConfig-dummy.m */,
+				4DFD17F4B131800FCEDD41AC232A184A /* LXYCommonConfig-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/LXYCommonConfig";
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				8F8379ACDF10CCDE24EE758C16FB05DC /* Pods */,
+				9190BDEB579407A39AC7C5A456CA94BD /* Pods */,
 				B3418DD1BDD05D0F0E8E2226C6056249 /* Products */,
 				CCB5BC8A093A6CB0AF4226BC1819EA54 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		8F8379ACDF10CCDE24EE758C16FB05DC /* Pods */ = {
+		8CFD5049A987BFA7018C8FCB64BE54BD /* LXYCommonConfig */ = {
 			isa = PBXGroup;
 			children = (
-				02F382205C9764676DED7E1916540855 /* LXYCommonConfig */,
+				3EB6A9225350856E42D0860553221E87 /* LXYIDCardInfo */,
+				513EF08DDB6258901C44DF24A5DAC677 /* LXYImageCategory */,
+				4EEBD7878DCCE162E60ADA8686793C54 /* LXYLayerCorner */,
+				5BE5F204B8B38ACB7D9BCC66F6381B38 /* Support Files */,
 			);
-			name = Pods;
+			name = LXYCommonConfig;
+			path = LXYCommonConfig;
 			sourceTree = "<group>";
 		};
-		98406D4645FB915A79E329B6847ADD7F /* LXYLayerCorner */ = {
+		9190BDEB579407A39AC7C5A456CA94BD /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				C36D9A394ED2F6AAF43A95960D5A2C3E /* LXYLayerCornerHeader.h */,
-				41EC6169E487B0BFADDE299E3401946F /* UIImage+LXYImageCorner.h */,
-				7B9511FD897E19887C0DC85B51521933 /* UIImage+LXYImageCorner.m */,
-				3D7198119D67B4B6A2A669E39131EAC1 /* UIImageView+LXYImageCorner.h */,
-				9C68507681EC5BB2F34FA2F0A72610EE /* UIImageView+LXYImageCorner.m */,
+				8CFD5049A987BFA7018C8FCB64BE54BD /* LXYCommonConfig */,
 			);
-			name = LXYLayerCorner;
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		9B66656EBC2548B4D7A962F1762668DC /* Pods-DemoUITests */ = {
@@ -205,15 +228,6 @@
 			);
 			name = "Pods-DemoUITests";
 			path = "Target Support Files/Pods-DemoUITests";
-			sourceTree = "<group>";
-		};
-		A9DB8D8A149D0191D024064B8C218365 /* LXYIDCardInfo */ = {
-			isa = PBXGroup;
-			children = (
-				A107E5E6C61043CFDC088E5983FC3D17 /* NSString+LXYIDCardInfo.h */,
-				B4F97201BF0C2A94295355B2D187DBA0 /* NSString+LXYIDCardInfo.m */,
-			);
-			name = LXYIDCardInfo;
 			sourceTree = "<group>";
 		};
 		B3418DD1BDD05D0F0E8E2226C6056249 /* Products */ = {
@@ -271,27 +285,28 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		1505F193BB9361F5DAA3954B58200F9B /* Headers */ = {
+		652F758F858D661E0F54B89803B451EE /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				91C59F69FF9B70EC664AB73DD38A792B /* LXYLayerCornerHeader.h in Headers */,
-				E4E1CA4073CC784A6D3ACFDE2EA484DA /* NSString+LXYIDCardInfo.h in Headers */,
-				20E1EF2800A8608382DC9A9DB7203A21 /* UIImage+LXYImageCorner.h in Headers */,
-				62BED8E73681708D410108B155CA6E2E /* UIImageView+LXYImageCorner.h in Headers */,
+				B6382C29E8DED077C4C242F2E998D04F /* LXYLayerCornerHeader.h in Headers */,
+				981AA809F66616EC5DB918363CC1D500 /* NSString+LXYIDCardInfo.h in Headers */,
+				C5BF3B19BDB6570980139C13C747A481 /* UIImage+LXYCreateImage.h in Headers */,
+				9064BE0327CDD33C6A6A4CF1436AA966 /* UIImage+LXYImageCorner.h in Headers */,
+				11B777F68C88353AE44D5C8141817704 /* UIImageView+LXYImageCorner.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		188D5F0A473ECEB4A9DC25B55A1074D5 /* LXYCommonConfig */ = {
+		1A053C707F1711E6AE18CF598387C0D2 /* LXYCommonConfig */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0CB59DA2A208EBB2616BBC425C8FA6A4 /* Build configuration list for PBXNativeTarget "LXYCommonConfig" */;
+			buildConfigurationList = 0E6C9C6D50005801683567033EE7B8DB /* Build configuration list for PBXNativeTarget "LXYCommonConfig" */;
 			buildPhases = (
-				7AB9B3EA397B2E68FC914BB50BFBD57A /* Sources */,
-				19B3A6B0A6F7829F318FE7D0F3989478 /* Frameworks */,
-				1505F193BB9361F5DAA3954B58200F9B /* Headers */,
+				8327A0C6BEAD7FB74FF7630D8F961841 /* Sources */,
+				F86A354549FF900F84A6F1A8C79AB95A /* Frameworks */,
+				652F758F858D661E0F54B89803B451EE /* Headers */,
 			);
 			buildRules = (
 			);
@@ -374,7 +389,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				188D5F0A473ECEB4A9DC25B55A1074D5 /* LXYCommonConfig */,
+				1A053C707F1711E6AE18CF598387C0D2 /* LXYCommonConfig */,
 				800E38CB31E03CE95E097C696B5B87AF /* Pods-Demo */,
 				900C5C5D109F3AE4BE36E06763855BB9 /* Pods-DemoTests */,
 				7D9790B5956D156B82994E3C6D4B6ECE /* Pods-DemoUITests */,
@@ -399,22 +414,23 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7AB9B3EA397B2E68FC914BB50BFBD57A /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				71AC93B61D7F2AEB6E890650B7362AF4 /* LXYCommonConfig-dummy.m in Sources */,
-				E759C05FC113A295C8AC19D4F35DAE36 /* NSString+LXYIDCardInfo.m in Sources */,
-				865F22FC1CE556B11154A71AE8284BE0 /* UIImage+LXYImageCorner.m in Sources */,
-				3218360946778E6852C53A00CA970134 /* UIImageView+LXYImageCorner.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		7AFF477AB6F49F0A0CB40EBF83442664 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				E965FC7A001F391BAD1931B906D33D63 /* Pods-Demo-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8327A0C6BEAD7FB74FF7630D8F961841 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1F12E64BD7F178FC7284946A85D4FCE1 /* LXYCommonConfig-dummy.m in Sources */,
+				1179599E2F0A7A3DC78990F289B90224 /* NSString+LXYIDCardInfo.m in Sources */,
+				16E3A9DE3FF21ACDC796400D67CB5A19 /* UIImage+LXYCreateImage.m in Sources */,
+				5353F6C1BBBA8C88FD90E83AD28BC54E /* UIImage+LXYImageCorner.m in Sources */,
+				C37159EE8D0CC913FDCAB7857620013B /* UIImageView+LXYImageCorner.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -436,7 +452,7 @@
 		88A4CDD64639073E445CC9A0BF410E79 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = LXYCommonConfig;
-			target = 188D5F0A473ECEB4A9DC25B55A1074D5 /* LXYCommonConfig */;
+			target = 1A053C707F1711E6AE18CF598387C0D2 /* LXYCommonConfig */;
 			targetProxy = 685A47ADC042B8F21186925B3EB44528 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -527,53 +543,6 @@
 			};
 			name = Release;
 		};
-		23278EC5BCDF9BD588249B3EBCB2F00D /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 40A3034D79F205CCC82D4ABB5350CBB7 /* LXYCommonConfig.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/LXYCommonConfig/LXYCommonConfig-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = LXYCommonConfig;
-				PRODUCT_NAME = LXYCommonConfig;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		44B2518268360BDA008DA1E1C560EEAC /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 40A3034D79F205CCC82D4ABB5350CBB7 /* LXYCommonConfig.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/LXYCommonConfig/LXYCommonConfig-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = LXYCommonConfig;
-				PRODUCT_NAME = LXYCommonConfig;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
 		4F9BEF123945D287E438F57577868A4F /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F1A10E30D4EEAD02A4F45FD0D3FF6BA3 /* Pods-DemoUITests.release.xcconfig */;
@@ -591,6 +560,30 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7DA15CFFE446EAAC0ABD5054085FD43C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0ACBD00AC5830C6912AB3EEFCA0D4119 /* LXYCommonConfig.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/LXYCommonConfig/LXYCommonConfig-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = LXYCommonConfig;
+				PRODUCT_NAME = LXYCommonConfig;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -617,6 +610,29 @@
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
+		};
+		953A7A280BDD5074991358306C631AD0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0ACBD00AC5830C6912AB3EEFCA0D4119 /* LXYCommonConfig.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/LXYCommonConfig/LXYCommonConfig-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = LXYCommonConfig;
+				PRODUCT_NAME = LXYCommonConfig;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
 		};
 		9CEC9CC07082635119B0C688C126933A /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -742,11 +758,11 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0CB59DA2A208EBB2616BBC425C8FA6A4 /* Build configuration list for PBXNativeTarget "LXYCommonConfig" */ = {
+		0E6C9C6D50005801683567033EE7B8DB /* Build configuration list for PBXNativeTarget "LXYCommonConfig" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				44B2518268360BDA008DA1E1C560EEAC /* Debug */,
-				23278EC5BCDF9BD588249B3EBCB2F00D /* Release */,
+				953A7A280BDD5074991358306C631AD0 /* Debug */,
+				7DA15CFFE446EAAC0ABD5054085FD43C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
