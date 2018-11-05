@@ -1,18 +1,20 @@
 PODS:
-  - LXYCommonConfig (0.0.2):
-    - LXYCommonConfig/LXYLayerCorner (= 0.0.2)
-  - LXYCommonConfig/LXYLayerCorner (0.0.2)
+  - LXYCommonConfig (0.0.4):
+    - LXYCommonConfig/LXYIDCardInfo (= 0.0.4)
+    - LXYCommonConfig/LXYLayerCorner (= 0.0.4)
+  - LXYCommonConfig/LXYIDCardInfo (0.0.4)
+  - LXYCommonConfig/LXYLayerCorner (0.0.4)
 
 DEPENDENCIES:
-  - LXYCommonConfig (~> 0.0.2)
+  - LXYCommonConfig (~> 0.0.4)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - LXYCommonConfig
 
 SPEC CHECKSUMS:
-  LXYCommonConfig: f91d2b65fdaeb21b4d4eacfa2e4c86ee08e6d39d
+  LXYCommonConfig: 71e2e3eacb7e11ac04d3715ac64e8924d3eb0646
 
-PODFILE CHECKSUM: 314a939cfb25aab8d935da51d19fd6224feae11e
+PODFILE CHECKSUM: f1e1e78af1740ed35b6e3a057d755073a9b11fef
 
 COCOAPODS: 1.5.3
