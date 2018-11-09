@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04D750E52195E0170061ADAF /* UIImage+LXYCaptureVideoFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D750E42195E0170061ADAF /* UIImage+LXYCaptureVideoFrame.m */; };
 		04FEE2632190717E00C3D8A1 /* UIImage+LXYCreateImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FEE2622190717E00C3D8A1 /* UIImage+LXYCreateImage.m */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		04D750E32195E0170061ADAF /* UIImage+LXYCaptureVideoFrame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+LXYCaptureVideoFrame.h"; sourceTree = "<group>"; };
+		04D750E42195E0170061ADAF /* UIImage+LXYCaptureVideoFrame.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+LXYCaptureVideoFrame.m"; sourceTree = "<group>"; };
 		04FEE2552190714C00C3D8A1 /* libLXYImageCategory.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libLXYImageCategory.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		04FEE2612190717E00C3D8A1 /* UIImage+LXYCreateImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+LXYCreateImage.h"; sourceTree = "<group>"; };
 		04FEE2622190717E00C3D8A1 /* UIImage+LXYCreateImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+LXYCreateImage.m"; sourceTree = "<group>"; };
@@ -60,6 +63,8 @@
 			children = (
 				04FEE2612190717E00C3D8A1 /* UIImage+LXYCreateImage.h */,
 				04FEE2622190717E00C3D8A1 /* UIImage+LXYCreateImage.m */,
+				04D750E32195E0170061ADAF /* UIImage+LXYCaptureVideoFrame.h */,
+				04D750E42195E0170061ADAF /* UIImage+LXYCaptureVideoFrame.m */,
 			);
 			path = LXYImageCategory;
 			sourceTree = "<group>";
@@ -120,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04D750E52195E0170061ADAF /* UIImage+LXYCaptureVideoFrame.m in Sources */,
 				04FEE2632190717E00C3D8A1 /* UIImage+LXYCreateImage.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
