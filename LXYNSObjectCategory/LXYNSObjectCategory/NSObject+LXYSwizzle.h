@@ -12,12 +12,20 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface NSObject (LXYSwizzle)
 
+
 /**
- 实例方法交换
+ @brief 实例方法交换
+
+ @param originalSelector 原有的老方法
+ @param swizzledSelector 替换的新方法
  */
 + (void)swizzleInstanceSelector:(SEL)originalSelector withSwizzledSelector:(SEL)swizzledSelector;
+
 /**
- 类方法交换
+ @brief 类方法交换
+ 
+ @param originalSelector 原有的老方法
+ @param swizzledSelector 替换的新方法
  */
 + (void)swizzleClassSelector:(SEL)originalSelector withSwizzledSelector:(SEL)swizzledSelector;
 
